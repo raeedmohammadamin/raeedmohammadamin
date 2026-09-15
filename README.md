@@ -24,13 +24,30 @@ I am a **Computer Science student** focused on software development, algorithms,
 
 > My goal is to grow into a developer who combines strong fundamentals with a practical understanding of the people and problems behind the code.
 
-## What I work with
+## Languages & tools
 
-| Languages | Web & tools | Core interests |
-| --- | --- | --- |
-| Python · JavaScript · C/C++ | HTML · CSS · Git · GitHub | Algorithms · APIs · Responsive UI |
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,git,github,vscode,figma&perline=9&theme=dark" alt="Languages and tools" />
+</div>
 
-> This list is intentionally kept focused and will grow as I build and verify more projects.
+### Core focus
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineering-0f172a?style=for-the-badge&logo=codeforces&logoColor=65e0c0" alt="Software engineering" />
+  <img src="https://img.shields.io/badge/Algorithms%20%26%20Data-0f172a?style=for-the-badge&logo=thealgorithms&logoColor=65e0c0" alt="Algorithms and data" />
+  <img src="https://img.shields.io/badge/Responsive%20Web-0f172a?style=for-the-badge&logo=googlechrome&logoColor=65e0c0" alt="Responsive web" />
+</div>
+
+## GitHub stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raeedmohammadamin&show_icons=true&hide_border=true&bg_color=0d1117&title_color=65e0c0&icon_color=65e0c0&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raeedmohammadamin&layout=compact&hide_border=true&bg_color=0d1117&title_color=65e0c0&text_color=c9d1d9&langs_count=6" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raeedmohammadamin&hide_border=true&background=0d1117&ring=65e0c0&fire=65e0c0&currStreakLabel=65e0c0&sideLabels=c9d1d9&dates=7f8c8d&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub contribution streak" />
+</div>
 
 ## Selected work
 
@@ -39,7 +56,7 @@ A responsive company website for a pharmaceuticals and medical supplies organiza
 
 **Focus:** responsive design · semantic HTML · CSS · user experience
 
-### [GitHub Portfolio](https://github.com/raeedmohammadamin/github_portfolio)
+### [GitHub Profile](https://github.com/raeedmohammadamin/raeedmohammadamin)
 This profile repository: a living record of my learning, projects, experiments, and progress as a computer science student.
 
 **Focus:** documentation · continuous improvement · developer identity

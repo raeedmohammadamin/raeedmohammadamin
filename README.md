@@ -6,7 +6,7 @@
 ### Building useful software, one thoughtful solution at a time.
 
 <a href="https://github.com/raeedmohammadamin"><img src="https://img.shields.io/badge/GitHub-raeedmohammadamin-111827?style=for-the-badge&logo=github&logoColor=65e0c0" alt="GitHub" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0f766e?style=for-the-badge&logo=gmail&logoColor=65e0c0" alt="Email" /></a>
+<a href="mailto:raeedmohammadamin@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0f766e?style=for-the-badge&logo=gmail&logoColor=65e0c0" alt="Email" /></a>
 </div>
 
 ---
